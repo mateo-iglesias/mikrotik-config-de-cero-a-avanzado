@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34549925/README.md)
 # MikroTik de Cero a Avanzado 🛜
 
 Guía práctica para configurar un **MikroTik hAP lite** desde un equipo reseteado hasta una configuración segura con enfoque empresarial: firewall, acceso remoto, VLANs, colas, backups automáticos, monitoreo y más.
