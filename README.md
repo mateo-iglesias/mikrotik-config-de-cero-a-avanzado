@@ -29,7 +29,7 @@ Cada módulo explica **qué se hace y por qué**, los **pasos en Winbox** y un *
 
 | # | Módulo | Estado |
 |---|---|---|
-| 01 | [Preparación + configuración base + firewall básico](./01-configuracion-base/) | 🔄 En progreso |
+| 01 | [Preparación + configuración base + firewall básico](./01-configuracion-base/) | ✅ Completado |
 | 02 | Backup automático | ⏳ Pendiente |
 | 03 | Acceso remoto sin IP pública | ⏳ Pendiente |
 | 04 | VLANs + colas simples | ⏳ Pendiente |
