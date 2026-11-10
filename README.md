@@ -68,7 +68,7 @@ Los módulos están pensados para seguirse **en orden**: cada uno parte de la co
 
 ## 🔐 Auditoría de seguridad
 
-La verificación de esta configuración (escaneo de puertos, pruebas del firewall y del WiFi) se documenta en un **repositorio independiente**, dedicado a la auditoría del laboratorio.
+La verificación de esta configuración (escaneo de puertos y pruebas del firewall) se documenta en un **repositorio independiente**, dedicado a la auditoría del laboratorio.
 
 ---
 
@@ -83,4 +83,4 @@ La verificación de esta configuración (escaneo de puertos, pruebas del firewal
 ## 👤 Autor
 
 **Anderson Mateo Iglesias Suárez**
-Administrador de redes en ISP · Estudiante de Ingeniería de Sistemas · Enfocado en ciberseguridad.
+Administrador de redes · Estudiante de Ingeniería de Sistemas · Enfocado en ciberseguridad.
