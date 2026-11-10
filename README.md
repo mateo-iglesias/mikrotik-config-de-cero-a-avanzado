@@ -83,4 +83,4 @@ La verificación de esta configuración (escaneo de puertos y pruebas del firewa
 ## 👤 Autor
 
 **Anderson Mateo Iglesias Suárez**
-Administrador de redes · Estudiante de Ingeniería de Sistemas · Enfocado en ciberseguridad.
+Administrador de redes · Estudiante de Ingeniería de Sistemas · ciberseguridad.
